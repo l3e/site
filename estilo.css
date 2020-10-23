@@ -32,3 +32,15 @@ body {
     color: #6D6D6D;
     border-bottom:3px solid #0a0a0a;
 }
+
+.posicionado {
+	right: 200px;
+	position: absolute;
+}
+.ar img {
+	font-size:250pt;
+}
+.ar img:hover {
+	opacity: 0.5;
+    filter: alpha(opacity=30);
+}
