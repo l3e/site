@@ -2,7 +2,7 @@
 
 body {
     padding:0px;
-    margin:0px 0px 0px 0px;
+    margin:0px;
 }
 
 .menu ul {
@@ -33,20 +33,20 @@ body {
 }
 
 .cabecario {
-    background-image: url(topo.jpg);
-    height: 400pt;
+    background-image: url(topo-paginas-matematica.png);
+    height: 250pt;
     width: small;
     position: relative;
-    margin: 0pt 0pt 0pt 0pt;
+    margin: -25pt 0pt 0pt 0pt;
+    padding-top: 0pt;
 }
 
 .titulo-cabecario {
-    font-size: 100pt;
+    font-size: 30pt;
     color: azure;
     font-family: 'Courier New', Courier, monospace;
-    position: absolute;
     text-align: center;
-    padding-top: 120pt;
+    padding-top: 70pt;
     padding-left: 0pt;
 }
 .sub-titulo-cabecario {
